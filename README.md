@@ -19,7 +19,7 @@
 ```
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Systems+Engineer+%7C+USB+%7C+Cartagena;Backend+%26+Cloud+Infrastructure;Clean+code.+Scalable+systems.+Real+impact." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Systems+Engineer+%7C+USB+%7C+Barranquilla;Backend+%26+Cloud+Infrastructure;Clean+code.+Scalable+systems.+Real+impact." alt="Typing SVG" />
 </a>
 
 </div>
@@ -34,10 +34,10 @@ ijossd@github:~$ cat about.txt
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│  Name     : José                                                │
+│  Name     : Joseph De La Rans                                   │
 │  Handle   : ijossd                                              │
 │  Role     : Systems Engineer                                    │
-│  School   : Universidad Simón Bolívar · Cartagena, Colombia     │
+│  School   : Universidad Simón Bolívar · Barranquilla, Colombia  │
 │  Focus    : Backend Engineering · Cloud · Distributed Systems   │
 │  Status   : Building things that actually scale                 │
 └─────────────────────────────────────────────────────────────────┘
@@ -53,12 +53,16 @@ Currently deepening expertise in distributed systems, cloud-native infrastructur
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3572A5)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
-![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=ED8B00)
-![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=A8B9CC)
-![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=4EAA25)
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3572A5&logoSize=auto)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&logoSize=auto)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6&logoSize=auto)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00&logoSize=auto)
+![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=A8B9CC&logoSize=auto)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25&logoSize=auto)
+
+</div>
 
 **Backend & APIs**
 
@@ -79,7 +83,6 @@ Currently deepening expertise in distributed systems, cloud-native infrastructur
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=336791)
 ![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248)
-![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=DC382D)
 
 **Tools**
 
@@ -135,7 +138,7 @@ Currently deepening expertise in distributed systems, cloud-native infrastructur
 ```
 
 ```
-[ Systems Engineering · Universidad Simón Bolívar ]
+[ Systems Engineering · Universidad Simón Bolívar · Barranquilla ]
 ```
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ijossd&color=00FF41&style=flat-square&label=profile+views)
