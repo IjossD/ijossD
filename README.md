@@ -51,18 +51,16 @@ Currently deepening expertise in distributed systems, cloud-native infrastructur
 
 ## `$ cat tech_stack.json`
 
-**Languages**
-
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3572A5&logoSize=auto)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&logoSize=auto)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6&logoSize=auto)
-![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00&logoSize=auto)
-![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=A8B9CC&logoSize=auto)
-![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25&logoSize=auto)
+**Languages**
 
-</div>
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3572A5)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
 
 **Backend & APIs**
 
@@ -91,6 +89,8 @@ Currently deepening expertise in distributed systems, cloud-native infrastructur
 ![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
 ![Postman](https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman&logoColor=FF6C37)
 
+</div>
+
 ---
 
 ## `$ git log --stat`
@@ -105,7 +105,7 @@ Currently deepening expertise in distributed systems, cloud-native infrastructur
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ijossd&theme=chartreuse-dark&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&border=30363d" />
+<img src="https://streak-stats.demolab.com/?user=ijossd&theme=chartreuse-dark&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&border=30363d" />
 
 </div>
 
